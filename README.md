@@ -1,8 +1,10 @@
 # Dreamscraper-chatbot
+<img width="1512" alt="Screenshot 2024-11-09 at 12 03 09 AM" src="https://github.com/user-attachments/assets/edd146aa-2da8-482d-bb96-1ca64dbe020a">
 
 This Flask application integrates **Google Gemini** for natural language processing, **Stable Diffusion** for image generation, and **Google Text-to-Speech (gTTS)** for audio. It allows users to engage in an interactive storytelling experience by providing a dynamic text-based narrative, an illustrative image, and an audio narration.
 
 ## Components and Dependencies
+
 
 - **Flask**: Web framework to handle HTTP requests and render HTML.
 - **torch**: For handling operations on tensors, enabling compatibility with Stable Diffusion models.
